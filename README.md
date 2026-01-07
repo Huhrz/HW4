@@ -3,11 +3,11 @@
 Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
 
 ## W1
-Activity 1\n
+### Activity 1
 Read the rubric carefully, make sure every point works.
 make sure to playtest you itch link, send it to your classmates.
 
-Activity 2.\n
+### Activity 2.
 Q1. 10
 Q2. 2
 Q3. printMessage prints "hello world"
@@ -18,7 +18,7 @@ Q7.Transform is a class, you can't call Translate on Transform it self, you need
 Q8. Change Transform to a specific object name, for example _playerTransform.
 Hit enter TWICE to create a new line.
 
-Activity 3
+### Activity 3
 https://docs.google.com/document/d/1f7G4mzHXPIyRTfI2d5UnagogdDLsxSn7crcgg0hPKuU/edit?usp=sharing
 
 
