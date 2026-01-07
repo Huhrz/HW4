@@ -19,10 +19,3 @@ make sure to playtest you itch link, send it to your classmates.
 
 ### Activity 3
 https://docs.google.com/document/d/1f7G4mzHXPIyRTfI2d5UnagogdDLsxSn7crcgg0hPKuU/edit?usp=sharing
-
-
-- Create bullet points by writing dashes.
-- Here's another bullet point entry.
-
-
-Remove all placeholder text in order to get full credit for README file formatting.
