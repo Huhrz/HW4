@@ -25,6 +25,7 @@ https://docs.google.com/document/d/1f7G4mzHXPIyRTfI2d5UnagogdDLsxSn7crcgg0hPKuU/
 ![IMG_6292](https://github.com/user-attachments/assets/6eb71aa5-741c-49aa-95bf-f38b9d2dc8f6)
 
 ### Activity 2
-[MG2 commit]https://github.com/UCI-GDIM32-W25/mg2-Huhrz/commits/main/
+[MG2 commit](https://github.com/UCI-GDIM32-W25/mg2-Huhrz/commits/main/)
+
 I set up the basic MG2 gameplay structure by implementing the player jump mechanic and starting the coin spawning system. I also began organizing scripts for player control, coins, and UI updates.
 
