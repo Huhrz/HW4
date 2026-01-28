@@ -1,39 +1,8 @@
-![IMG_3703](https://github.com/user-attachments/assets/e9d322e4-4591-4573-91f6-ca55424e559a)# GDIM32 In Class Activities
-## Instructions
-Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
+# HW4
+## Devlog
+Write your Devlog here!
 
-## W1
-### Activity 1
-Read the rubric carefully, make sure every point works.
-make sure to playtest you itch link, send it to your classmates.
-
-### Activity 2.
-1. 10
-2. 2
-3. printMessage prints "hello world"
-4. Monobehavior
-5. it gives PrintMessage a value of 10 and store it in parameter x, then Debug.Log prints x = 10.
-6. argument string parameter, the purpose is to give printMessage a value, then print "x =" and the value of parameter x.
-7. Transform is a class, you can't call Translate on Transform it self, you need a specific object.
-8. Change Transform to a specific object name, for example _playerTransform.
-
-### Activity 3
-https://docs.google.com/document/d/1f7G4mzHXPIyRTfI2d5UnagogdDLsxSn7crcgg0hPKuU/edit?usp=sharing
-
-## W2
-### Activity 1 
-![IMG_6292](https://github.com/user-attachments/assets/6eb71aa5-741c-49aa-95bf-f38b9d2dc8f6)
-
-### Activity 2
-[MG2 commit](https://github.com/UCI-GDIM32-W25/mg2-Huhrz/commits/main/)
-
-I set up the basic MG2 gameplay structure by implementing the player jump mechanic and starting the coin spawning system. I also began organizing scripts for player control, coins, and UI updates.
-
-## W3
-### Activity 0-2
-Allen Hu Tiancheng Li
-
-### Activity 3
-![IMG_3703](https://github.com/user-attachments/assets/e3b99a62-776b-435a-96a9-f9f09be94879)
-
-
+## Open-Source Assets
+If you added any other assets, list them here!
+- [Brackey's Platformer Bundle](https://brackeysgames.itch.io/brackeys-platformer-bundle) - sound effects
+- [2D pixel art seagull sprites](https://elthen.itch.io/2d-pixel-art-seagull-sprites) - seagull sprites
